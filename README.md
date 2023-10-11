@@ -1,7 +1,7 @@
 # AWS Lakehouse Project
 
 ## Overview
-In this Data Engineering with AWS project, the objective was to build a data lakehouse solution for sensor data that will be used by data scientists to train a machine learning model.
+In this Data Engineering with AWS project, the objective was to build a data lakehouse solution for sensor data which can be used by data scientists to train a machine learning model.
 
 ## Tools/Technologies
 Python, Spark, SQL, AWS Glue, AWS S3, AWS Athena
