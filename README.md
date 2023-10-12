@@ -6,7 +6,7 @@ In this Data Engineering with AWS project, the objective was to build a data lak
 ## Tools/Technologies
 Python, Spark, SQL, AWS Glue, AWS S3, AWS Athena
 
-## Brief Summary of Tasks/Requirements
+## Summary of Loading and ETL Tasks
 ### Landing Zone
 * Use Glue Studio to ingest data from an S3 bucket
 * Manually create a Glue Table using Glue Console from JSON data
