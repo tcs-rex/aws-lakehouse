@@ -15,7 +15,7 @@ Python, Spark, SQL, AWS Glue, S3, Athena, CLI, IAM
 ### Trusted Zone
 * Configure Glue Studio to dynamically update a Glue Table schema from JSON data
 * Use Athena to query Trusted Glue Tables
-* Join Privacy tables with Glue Jobs
+* Join tables with Glue Jobs
 * Filter protected PII with Spark in Glue Jobs
 
 ### Curated Zone
